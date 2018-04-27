@@ -1,0 +1,10 @@
+Package: hmwk5
+Title: Alphabet function
+Version: 0.0.0.9000
+Authors@R: person("Sophie", "Hecht", email = "shecht@luc.edu", role = c("cre"))
+Description: returns a random letter from the alphabet
+Depends: R (>= 3.4.3)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
